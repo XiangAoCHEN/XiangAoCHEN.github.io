@@ -11,4 +11,4 @@ redirect_from:
 
 Education
 ======
-* B.Eng. in Computer Science and Technology
+* B.Eng. in Computer Science and Technology, Hunan University, 2023
